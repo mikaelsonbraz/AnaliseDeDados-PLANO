@@ -6,7 +6,6 @@ import com.mikaelsonroque.services.VerificarInadiplencia;
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
-import org.mockito.Mock;
 import org.springframework.beans.factory.annotation.Autowired;
 
 import java.util.Date;
