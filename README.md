@@ -12,4 +12,4 @@ ______
 
 <h2> TESTES REALIZADOS:
 
-![testes](src/main/resources/img/Captura de tela 2022-07-29 110137.png)
+![testes](src/main/resources/img/img.png)
