@@ -23,7 +23,6 @@ public class VerificarInadiplencia {
             return "0,00";
         }
 
-
         return String.format("%.2f", totalInadiplencia * 100 / totalLancamentos);
     }
 
